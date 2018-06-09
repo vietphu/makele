@@ -3,6 +3,7 @@
     {
       "src": "@123",
       "dst": "@234",
+      "src_total": 50000,
       "target_number": 2500,
       "current_number": 1255,
       "page": 3,
