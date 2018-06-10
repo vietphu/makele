@@ -17,7 +17,7 @@
       "mobile": "0905687954",
       "code": 123456,
       "added_amount": 35,
-      "status": "runing",
+      "status": "running",
       "updated_at": 1528547756,
       "error": "peer flood",
       "timer": 10
