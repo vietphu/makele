@@ -3,6 +3,7 @@
     {
       "src": "@123",
       "dst": "@234",
+      "dst_type": "group",
       "src_total": 50000,
       "target_number": 2500,
       "current_number": 1255,
@@ -18,6 +19,7 @@
       "added_amount": 35,
       "status": "runing",
       "updated_at": 1528547756,
-      "error": "peer flood"
+      "error": "peer flood",
+      "timer": 10
     }
 }
