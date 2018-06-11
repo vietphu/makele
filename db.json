@@ -1,25 +1,29 @@
 {
-  "group":
-    {
-      "src": "@123",
-      "dst": "@234",
-      "dst_type": "group",
-      "src_total": 50000,
-      "target_number": 2500,
-      "current_number": 1255,
-      "page": 3,
-      "per_page": 100
+    "group": {
+        "id": 1,
+        "src": "nam",
+        "dst": "nam",
+        "dst_type": 0,
+        "src_total": 12,
+        "target_number": 12,
+        "current_number": 0,
+        "page": 2,
+        "per_page": 100,
+        "created_at": "2018-06-11 11:24:34",
+        "updated_at": "2018-06-11 11:37:13"
     },
-  "makele":
-    {
-      "client_name": "app1",
-      "thread_id": 123,
-      "mobile": "0905687954",
-      "code": 123456,
-      "added_amount": 35,
-      "status": "running",
-      "updated_at": 1528547756,
-      "error": "peer flood",
-      "timer": 10
+    "makele": {
+        "client_name": "app1",
+        "thread_id": 2,
+        "mobile": "12321312",
+        "code": null,
+        "added_amount": "0",
+        "status": "waiting",
+        "error": null,
+        "page": 1,
+        "group_id": 1,
+        "updated_at": "2018-06-11 11:37:13",
+        "created_at": "2018-06-11 11:37:13",
+        "id": 2
     }
 }
